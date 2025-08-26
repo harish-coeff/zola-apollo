@@ -42,9 +42,5 @@ _As of 2023-12-28, here's what I'm currently focused on:_
 - 🚀 Starting my journey with ZigLang and systems programming, diving into the intricacies of lower-level computing.
 - ✍️ Embracing the hobby of blogging to share insights, ideas, and experiences – a personal endeavor to express and connect.
 
-## 📬 Contact
-
-Got a tech idea or want to discuss F1 strategies?
-- 📧 Drop me a line at [dragonmage65535@gmail.com](mailto:dragonmage65535@gmail.com).
 
 Thanks for stopping by!
